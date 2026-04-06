@@ -5,3 +5,8 @@
 - 4 files done ✅
 
 
+## Day 2 ✅ Calculator
+- Arithmetic operators + - * /
+- Simple functions
+- Basic math
+- 4 files done ✅
