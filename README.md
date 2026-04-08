@@ -16,3 +16,9 @@
 - Modulo operator %
 - Helper function
 - 4 files done ✅
+
+## Day 4 ✅ Multiplication Table
+- for loops
+- range(1, 11)
+- Table printing
+- 4 files done ✅
