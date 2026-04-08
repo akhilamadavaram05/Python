@@ -10,3 +10,9 @@
 - Simple functions
 - Basic math
 - 4 files done ✅
+  
+## Day 3 ✅ Even/Odd
+- if-else statements
+- Modulo operator %
+- Helper function
+- 4 files done ✅
