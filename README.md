@@ -22,3 +22,9 @@
 - range(1, 11)
 - Table printing
 - 4 files done ✅
+
+## Day 5 ✅ While Loop
+- while condition:
+- Loop until false
+- Counter increment
+- 4 files done ✅
