@@ -28,3 +28,9 @@
 - Loop until false
 - Counter increment
 - 4 files done ✅
+
+- ## Day 6 ✅ Lists
+- List creation []
+- append(), indexing [0]
+- len(), helper function
+- 4 files done ✅
