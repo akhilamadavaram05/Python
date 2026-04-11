@@ -34,3 +34,9 @@
 - append(), indexing [0]
 - len(), helper function
 - 4 files done ✅
+
+- ## Day 7 ✅ Tuples
+- Tuple creation ()
+- Immutable lists
+- Unpacking
+- 4 files done ✅
