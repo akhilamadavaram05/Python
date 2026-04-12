@@ -40,3 +40,9 @@
 - Immutable lists
 - Unpacking
 - 4 files done ✅
+
+- ## Day 8 ✅ Dictionaries
+- {"key": value}
+- Access dict["key"]
+- Add new keys
+- 4 files done ✅
