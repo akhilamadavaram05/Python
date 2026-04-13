@@ -46,3 +46,9 @@
 - Access dict["key"]
 - Add new keys
 - 4 files done ✅
+
+- ## Day 9 ✅ List Loops
+- for item in list:
+- if condition filtering
+- Build new list
+- 4 files done ✅
