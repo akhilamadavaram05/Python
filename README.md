@@ -59,3 +59,10 @@
 - 2D arrays
 - 4 files done ✅
 
+- ## Day 11 ✅ Functions
+- def function_name():
+- return statement
+- Function calls
+- 4 files done ✅
+
+
