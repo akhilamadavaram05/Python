@@ -52,3 +52,10 @@
 - if condition filtering
 - Build new list
 - 4 files done ✅
+
+- ## Day 10 ✅ Nested Lists
+- Lists inside lists
+- Access [[row][col]]
+- 2D arrays
+- 4 files done ✅
+
