@@ -65,4 +65,11 @@
 - Function calls
 - 4 files done ✅
 
+- ## Day 12 ✅ Math Functions
+- Multiple parameters
+- ** exponent operator
+- Math operations
+- 4 files done ✅
+
+
 
