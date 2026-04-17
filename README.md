@@ -71,5 +71,11 @@
 - Math operations
 - 4 files done ✅
 
+- ## Day 13 ✅ For Loops
+- for item in list:
+- range(5) → 0,1,2,3,4
+- Loop over collections
+- 4 files done ✅
+
 
 
