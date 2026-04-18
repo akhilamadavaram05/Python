@@ -77,5 +77,11 @@
 - Loop over collections
 - 4 files done ✅
 
+- ## Day 14 ✅ While Loops
+- while condition:
+- Increment counters
+- Avoid infinite loops
+- 4 files done ✅
+
 
 
