@@ -89,5 +89,10 @@
 - Control flow
 - 4 files done ✅
 
+## Day 16 ✅ Default Parameters
+- def func(param=default):
+- Optional arguments
+- def greet(name="friend"):
+- 4 files done ✅
 
 
