@@ -95,4 +95,9 @@
 - def greet(name="friend"):
 - 4 files done ✅
 
+## Day 17 ✅ *args **kwargs
+- *args → multiple positional
+- **kwargs → multiple keywords
+- Variable arguments
+- 4 files done ✅
 
