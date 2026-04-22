@@ -1,0 +1,5 @@
+#Day 18 - Test
+double = lambda x: x * 2
+result = double(6)
+print("12 =", result)
+print("Day 18 test ok")
