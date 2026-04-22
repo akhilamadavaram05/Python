@@ -101,3 +101,9 @@
 - Variable arguments
 - 4 files done ✅
 
+- ## Day 18 ✅ Lambda Functions
+- lambda x: expression
+- Anonymous one-liners
+- map() with lambda
+- 4 files done ✅
+
