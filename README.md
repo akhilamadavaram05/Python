@@ -107,3 +107,9 @@
 - map() with lambda
 - 4 files done ✅
 
+- ## Day 19 ✅ Dictionaries
+- {"key": "value"}
+- dict["key"] access
+- Key-value pairs
+- 4 files done ✅
+
