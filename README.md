@@ -113,3 +113,8 @@
 - Key-value pairs
 - 4 files done ✅
 
+## Day 20 ✅ Exception Handling
+- try: ... except: ...
+- ValueError, ZeroDivisionError
+- Handle errors gracefully
+- 4 files done ✅
