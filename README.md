@@ -118,3 +118,9 @@
 - ValueError, ZeroDivisionError
 - Handle errors gracefully
 - 4 files done ✅
+
+- ## Day 21 ✅ List Comprehensions
+- [expression for item in iterable]
+- [x**2 for x in numbers]
+- One-line loops
+- 4 files done ✅
