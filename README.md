@@ -124,3 +124,10 @@
 - [x**2 for x in numbers]
 - One-line loops
 - 4 files done ✅
+
+- ## Day 22 ✅ Dict Methods
+- dict.keys()
+- dict.values() 
+- dict.items()
+- dict.get(key, default)
+- 4 files done ✅
