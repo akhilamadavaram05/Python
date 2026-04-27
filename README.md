@@ -131,3 +131,9 @@
 - dict.items()
 - dict.get(key, default)
 - 4 files done ✅
+
+- ## Day 23 ✅ Sets
+- {"apple", "banana"} - unique items
+- No duplicates
+- | union, & intersection
+- 4 files done ✅
