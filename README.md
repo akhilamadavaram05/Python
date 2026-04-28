@@ -137,3 +137,9 @@
 - No duplicates
 - | union, & intersection
 - 4 files done ✅
+
+## Day 24 ✅ Tuples
+- (10, 20) - immutable
+- Cannot change after create
+- Use for fixed data
+- 4 files done ✅
