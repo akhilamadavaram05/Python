@@ -143,3 +143,9 @@
 - Cannot change after create
 - Use for fixed data
 - 4 files done ✅
+
+- ## Day 25 ✅ File Handling
+- with open("file.txt", "r") as f:
+- "w" write, "r" read
+- read(), write(), readlines()
+- 4 files done ✅
