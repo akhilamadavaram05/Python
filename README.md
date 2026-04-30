@@ -149,3 +149,10 @@
 - "w" write, "r" read
 - read(), write(), readlines()
 - 4 files done ✅
+
+- ## Day 26 ✅ Modules
+- import math
+- import random
+- Create mymodule.py
+- Reuse code!
+- 5 files done ✅
