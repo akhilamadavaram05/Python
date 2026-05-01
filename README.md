@@ -156,3 +156,10 @@
 - Create mymodule.py
 - Reuse code!
 - 5 files done ✅
+
+## Day 27 ✅ Custom Modules
+- Create utils.py, mymodule.py
+- import utils
+- utils.add(5, 3)
+- Organize code!
+- 5 files done ✅
