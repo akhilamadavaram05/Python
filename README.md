@@ -163,3 +163,10 @@
 - utils.add(5, 3)
 - Organize code!
 - 5 files done ✅
+
+## Day 28 ✅ Classes & Objects
+- class MyClass:
+- __init__(self, params):
+- self.attribute = value
+- def method(self):
+- 4 files done ✅
