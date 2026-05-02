@@ -1,0 +1,13 @@
+#Day 28 - Class Helper
+class Car:
+    wheels = 4  # class variable
+    
+    def __init__(self, color):
+        self.color = color  # instance variable
+    
+    def drive(self):
+        return "Driving!"
+
+my_car = Car("red")
+print(my_car.color)
+print(my_car.drive())
