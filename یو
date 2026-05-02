@@ -1,0 +1,11 @@
+#Day 28 - Classes
+class Person:
+    def __init__(self, name, age):
+        self.name = name
+        self.age = age
+    
+    def greet(self):
+        return f"Hi, I'm {self.name}"
+
+p = Person("Sai", 25)
+print(p.greet())
