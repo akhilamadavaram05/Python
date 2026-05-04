@@ -170,3 +170,10 @@
 - self.attribute = value
 - def method(self):
 - 4 files done ✅
+
+- ## Day 29 ✅ Inheritance
+- class Child(Parent):
+- Override methods
+- Reuse parent code
+- Animal → Dog, Cat
+- 4 files done ✅
