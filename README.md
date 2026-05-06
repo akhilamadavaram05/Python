@@ -186,3 +186,25 @@
 - OOP + Everything learned!
 - 30 days → MASTER ✅
 
+- # Day 31 - Class Helper + Test System ✅
+
+## Files:
+- `day31_todo_class.py` → Core class
+- `day31_todo_helper.py` → Helper functions  
+- `day31_test_suite.py` → Full tests
+- `day31_run.py` → Interactive runner
+
+## Quick Run:
+```bash
+python3 day31_run.py  # Menu
+python3 day31_test_suite.py  # Tests only
+```
+
+## Features:
+✅ Unit tests  
+✅ Helper functions
+✅ Interactive demo
+✅ Clean separation
+
+**Professional structure!** 🏆
+
