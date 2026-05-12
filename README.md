@@ -215,3 +215,10 @@ python3 day31_test_suite.py  # Tests only
 - Access by site name
 - 4 files done ✅
 
+- ## Day 33 ✅ Rock Paper Scissors
+- random.choice() for computer move
+- if-elif-else win/tie/lose logic
+- 3 win conditions tested
+- Multi-round scoring
+- 4 files done ✅
+
