@@ -222,3 +222,12 @@ python3 day31_test_suite.py  # Tests only
 - Multi-round scoring
 - 4 files done ✅
 
+- # Day 34 - Quiz Game
+
+Features:
+- Multiple-choice quiz
+- Shuffle questions
+- Simple CLI interface
+- 4 files done ✅
+
+
