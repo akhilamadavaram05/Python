@@ -228,6 +228,8 @@ Features:
 - Multiple-choice quiz
 - Shuffle questions
 - Simple CLI interface
-- 4 files done ✅
+- 4 files done # Day 35 - BMI Calculator
+
+
 
 
