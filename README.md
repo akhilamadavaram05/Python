@@ -230,6 +230,11 @@ Features:
 - Simple CLI interface
 - 4 files done # Day 35 - BMI Calculator
 
+## Day 36 ✅ To-Do List App
+- Add tasks
+- Show all tasks
+- Mark tasks as done
+- 4 files: main, helper (demo), test, README
 
 
 
