@@ -236,5 +236,9 @@ Features:
 - Mark tasks as done
 - 4 files: main, helper (demo), test, README
 
-
+- ## Day 37 ✅ File Organizer
+- Automatically sort files by type (images, docs, videos, etc.)
+- Uses `os` and `shutil` for filesystem operations
+- CLI input: folder path to organize
+- 4 files: main, helper (test files + list), test, README
 
