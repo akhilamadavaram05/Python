@@ -242,3 +242,11 @@ Features:
 - CLI input: folder path to organize
 - 4 files: main, helper (test files + list), test, README
 
+- ## Day 38 ✅ Text Adventure Game
+- Navigate locations with text commands (east, west, search, etc.)
+- Rooms stored as dictionaries with routes
+- Simple branching narrative
+- 4 files: main, helper (demo/short versions), test (structure check), README
+
+
+
