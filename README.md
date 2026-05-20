@@ -249,4 +249,11 @@ Features:
 - 4 files: main, helper (demo/short versions), test (structure check), README
 
 
+# Day 39 - Simple Calculator
+
+- Core functions: add, subtract, multiply, divide
+- CLI interface: assumes valid float input
+- 4 files: main, helper (batch tests), test, README
+
+
 
