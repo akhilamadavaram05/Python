@@ -255,5 +255,9 @@ Features:
 - CLI interface: assumes valid float input
 - 4 files: main, helper (batch tests), test, README
 
-
+- ## Day 40 ✅ Guess the Number
+- Computer picks 1–100
+- User guesses with hints (too low/too high)
+- Counts attempts
+- 4 files: main, helper (demo), test (logic check), README
 
