@@ -261,3 +261,9 @@ Features:
 - Counts attempts
 - 4 files: main, helper (demo), test (logic check), README
 
+- ## Day 41 ✅ Quiz Game
+- Multiple‑choice questions
+- Simple scoring
+- Direct input of 1‑indexed answer
+- 4 files: main, helper (demo), test (structure check), README
+
