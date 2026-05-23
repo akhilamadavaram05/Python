@@ -267,3 +267,9 @@ Features:
 - Direct input of 1‑indexed answer
 - 4 files: main, helper (demo), test (structure check), README
 
+- ## Day 42 ✅ CSV Reader Mini‑Project
+- Writes a sample CSV file
+- Reads and prints CSV rows
+- Helper shows as formatted table
+- 4 files: main (write/read), helper (table view), test, README
+
