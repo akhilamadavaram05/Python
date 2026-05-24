@@ -273,3 +273,10 @@ Features:
 - Helper shows as formatted table
 - 4 files: main (write/read), helper (table view), test, README
 
+- ## Day 43 ✅ JSON File Operations
+- Write dictionary to JSON file with `json.dump`
+- Read JSON file into dict with `json.load`
+- Pretty‑print using `json.dumps(indent=2)`
+- Helper modifies list in JSON
+- 4 files: main (read/write), helper (add skill), test (key check), README
+
