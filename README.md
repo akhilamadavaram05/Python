@@ -280,3 +280,9 @@ Features:
 - Helper modifies list in JSON
 - 4 files: main (read/write), helper (add skill), test (key check), README
 
+- ## Day 44 ✅ File‑Based To‑Do List
+- Stores tasks in day44_tasks.txt
+- Shows task text + timestamp
+- Simple CLI menu (add/show/quit)
+- 4 files: main (file‑based to‑do), helper (demo + count), test (add sample), README
+
