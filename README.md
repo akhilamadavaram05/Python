@@ -286,3 +286,9 @@ Features:
 - Simple CLI menu (add/show/quit)
 - 4 files: main (file‑based to‑do), helper (demo + count), test (add sample), README
 
+- ## Day 45 ✅ Simple Calculator
+- Functions: add, sub, mul, div
+- CLI menu with +, -, *, /, quit
+- Error handling for bad input and divide by zero
+- 4 files: main (CLI), helper (drivers + functions), test (unit tests), README
+
