@@ -292,3 +292,10 @@ Features:
 - Error handling for bad input and divide by zero
 - 4 files: main (CLI), helper (drivers + functions), test (unit tests), README
 
+- ## Day 46 ✅ Guess‑the‑Number Game
+- Computer picks random number 1–100
+- User guesses; program says "too low" / "too high"
+- Tracks attempts and shows count on success
+- 4 files: main (game loop), helper (demo + helper func), test (random check), README
+
+
