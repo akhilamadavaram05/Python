@@ -298,4 +298,9 @@ Features:
 - Tracks attempts and shows count on success
 - 4 files: main (game loop), helper (demo + helper func), test (random check), README
 
+## Day 47 ✅ Word Counter & Text Analyzer
+- Counts lines, words, characters from a text file
+- Shows top N most common words using Counter
+- Creates sample file day47_sample.txt
+- 4 files: main (create + count), helper (top words + analyze), test (unit tests), README
 
