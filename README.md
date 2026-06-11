@@ -304,3 +304,9 @@ Features:
 - Creates sample file day47_sample.txt
 - 4 files: main (create + count), helper (top words + analyze), test (unit tests), README
 
+- ## Day 48 ✅ Rock, Paper, Scissors
+- Player vs computer with random choice
+- Tracks wins for both sides
+- Shows final score on quit
+- 4 files: main (game loop), helper (demo + choice), test (logic tests), README
+
