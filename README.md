@@ -310,3 +310,11 @@ Features:
 - Shows final score on quit
 - 4 files: main (game loop), helper (demo + choice), test (logic tests), README
 
+- ## Day 49 ✅ Secure Password Generator
+- Generates random passwords with letters, digits, optional specials
+- CLI: set length, choose special chars, regenerate
+- Helper includes demo + char-type analysis
+- 4 files: main (CLI), helper (demo + analysis), test (unit tests), README
+
+
+
