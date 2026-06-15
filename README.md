@@ -316,5 +316,10 @@ Features:
 - Helper includes demo + char-type analysis
 - 4 files: main (CLI), helper (demo + analysis), test (unit tests), README
 
+## Day 50 ✅ Tip Calculator
+- Computes tip amount, total bill, per-person cost
+- Validates bill > 0, tip 10/12/15, people > 0
+- Formats all amounts to 2 decimal places
+- 4 files: main (CLI), helper (demo + validation), test (unit tests), README
 
 
