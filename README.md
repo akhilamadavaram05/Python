@@ -322,4 +322,12 @@ Features:
 - Formats all amounts to 2 decimal places
 - 4 files: main (CLI), helper (demo + validation), test (unit tests), README
 
+- ## Day 51 ✅ Unit Converter (Temperature + Length)
+- Converts Celsius ↔ Fahrenheit
+- Converts meters ↔ feet
+- CLI menu with 5 options
+- 4 files: main (CLI), helper (demo + functions), test (unit tests), README
+
+
+
 
