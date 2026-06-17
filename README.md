@@ -328,6 +328,14 @@ Features:
 - CLI menu with 5 options
 - 4 files: main (CLI), helper (demo + functions), test (unit tests), README
 
+- ## Day 52 ✅ Email Extractor from Text
+- Uses regex to find email patterns
+- Reads from day52_sample.txt
+- Counts and lists all extracted emails
+- 4 files: main (create + extract), helper (count + demo), test (unit tests), README
+
+
+
 
 
 
