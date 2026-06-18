@@ -334,6 +334,14 @@ Features:
 - Counts and lists all extracted emails
 - 4 files: main (create + extract), helper (count + demo), test (unit tests), README
 
+-## Day 53 ✅ Phone Number Extractor from Text
+- Uses regex to find US-style phone patterns
+- Matches: 1234567890, 123-456-7890, (123) 456-7890, 123.456.7890
+- Reads from day53_sample.txt
+- Counts and lists all extracted phone numbers
+- 4 files: main (create + extract), helper (count + demo), test (unit tests), README
+
+
 
 
 
