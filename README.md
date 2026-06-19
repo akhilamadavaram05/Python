@@ -341,6 +341,13 @@ Features:
 - Counts and lists all extracted phone numbers
 - 4 files: main (create + extract), helper (count + demo), test (unit tests), README
 
+- ## Day 54 ✅ URL Extractor from Text
+- Uses regex to find http/https URLs
+- Reads from day54_sample.txt
+- Counts and lists all extracted URLs
+- 4 files: main (create + extract), helper (count + demo), test (unit tests), README
+
+
 
 
 
