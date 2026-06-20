@@ -347,6 +347,15 @@ Features:
 - Counts and lists all extracted URLs
 - 4 files: main (create + extract), helper (count + demo), test (unit tests), README
 
+- ## Day 55 ✅ Date Extractor from Text
+- Uses regex to find date patterns
+- Matches: YYYY-MM-DD, DD/MM/YYYY, DD-MM-YYYY
+- Reads from day55_sample.txt
+- Counts and lists all extracted dates
+- 4 files: main (create + extract), helper (count + demo), test (unit tests), README
+
+
+
 
 
 
