@@ -354,6 +354,14 @@ Features:
 - Counts and lists all extracted dates
 - 4 files: main (create + extract), helper (count + demo), test (unit tests), README
 
+- ## Day 56 ✅ Hashing & Password Validator
+- Hashes passwords using SHA-256
+- Validates password rules:
+  - 8+ characters
+  - lowercase, uppercase, digit
+- CLI: enter password, see errors or hash
+- 4 files: main (CLI), helper (demo + functions), test (unit tests), README
+
 
 
 
