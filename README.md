@@ -362,6 +362,12 @@ Features:
 - CLI: enter password, see errors or hash
 - 4 files: main (CLI), helper (demo + functions), test (unit tests), README
 
+- ## Day 57 ✅ Caesar Cipher (Encrypt/Decrypt)
+- Shifts letters by N positions (A→B, etc.)
+- Preserves case and non-letter characters
+- CLI: choose encrypt/decrypt, enter text and shift
+- 4 files: main (CLI), helper (demo + functions), test (round-trip), README
+
 
 
 
