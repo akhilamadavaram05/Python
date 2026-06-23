@@ -368,6 +368,14 @@ Features:
 - CLI: choose encrypt/decrypt, enter text and shift
 - 4 files: main (CLI), helper (demo + functions), test (round-trip), README
 
+- ## Day 58 ✅ Todo List with JSON Storage
+- Stores tasks in day58_tasks.json
+- Add tasks, show tasks, mark tasks done
+- Persists data across runs
+- 4 files: main (CLI + storage), helper (stats + seed), test (stats check), README
+
+
+
 
 
 
