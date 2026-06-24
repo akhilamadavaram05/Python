@@ -372,7 +372,20 @@ Features:
 - Stores tasks in day58_tasks.json
 - Add tasks, show tasks, mark tasks done
 - Persists data across runs
-- 4 files: main (CLI + storage), helper (stats + seed), test (stats check), README
+- 4 files: main (CLI + storage), helper (stats + seed), test (stats check), README## Day 59 ✅ Frequency Counter from Text
+- Counts word occurrences with Counter
+- Normalizes to lowercase and strips punctuation
+- Shows full frequency list and top N words
+- 4 files: main (sample + frequencies), helper (top N), test (unit tests), README
+
+## Day 59 ✅ Frequency Counter from Text
+- Counts word occurrences with Counter
+- Normalizes to lowercase and strips punctuation
+- Shows full frequency list and top N words
+- 4 files: main (sample + frequencies), helper (top N), test (unit tests), README
+
+
+- 
 
 
 
