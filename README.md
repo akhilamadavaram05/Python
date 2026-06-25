@@ -385,6 +385,15 @@ Features:
 - 4 files: main (sample + frequencies), helper (top N), test (unit tests), README
 
 
+## Day 60 ✅ JSON Notes App with Search
+- Stores notes as JSON
+- Add, list, and search notes
+- Search matches title or body
+- 4 files: main (CLI), helper (seed + search), test (search check), README
+
+
+python3 day60.py        # main app
+
 - 
 
 
