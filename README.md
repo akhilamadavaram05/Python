@@ -394,6 +394,14 @@ Features:
 
 python3 day60.py        # main app
 
+## Day 61 ✅ Simple Budget Tracker
+- Stores income and expenses in JSON
+- Add income, add expense, show report
+- Computes total expenses and balance
+- 4 files: main (CLI), helper (seed + calculations), test (budget checks), README
+
+
+
 - 
 
 
