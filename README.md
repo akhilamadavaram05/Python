@@ -400,6 +400,14 @@ python3 day60.py        # main app
 - Computes total expenses and balance
 - 4 files: main (CLI), helper (seed + calculations), test (budget checks), README
 
+- ## Day 63 ✅ Log File Analyzer
+- Reads a sample log file
+- Counts INFO, DEBUG, WARNING, ERROR lines
+- Extracts error lines separately
+- 4 files: main (log stats), helper (parse + errors), test (counts), README
+
+
+
 
 
 - 
