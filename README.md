@@ -406,18 +406,11 @@ python3 day60.py        # main app
 - Extracts error lines separately
 - 4 files: main (log stats), helper (parse + errors), test (counts), README
 
-
-
-
-
-- 
-
-
-
-
-
-
-
+- ## Day 64 ✅ Simple Web Server (CLI)
+- Uses http.server + socketserver
+- Serves a single HTML page at /
+- Returns 404 for other paths
+- 4 files: main (server + HTML), helper (file check), test (file assertions), README
 
 
 
